@@ -1,5 +1,3 @@
-# Ultimate-Ubuntu-Retro
-Hardware-aware emulation setup, standardized ROM/BIOS folders, and controller configurator for Ubuntu.
 # Ultimate Ubuntu Retro
 
 A hardware-aware emulation setup, standardized ROM/BIOS organizer, and controller configurator for Ubuntu 26.04+—part of **The Ultimate Ubuntu Suite**.
@@ -32,9 +30,11 @@ wget [https://github.com/kintaris3/Ultimate-Ubuntu-Retro/releases/download/v1.0/
 3. Open the `UURetro_v1.0` folder and double-click `ultimate-ubuntu-retro_1.0_all.deb` to install via App Center, or run `sudo apt install ./UURetro_v1.0/ultimate-ubuntu-retro_1.0_all.deb`.
 4. Press the **Super** key and launch **Ultimate Ubuntu Retro**.
 
-## The Ultimate Ubuntu Suite
+## The Complete Ultimate Ubuntu Suite
 - [Ultimate Ubuntu Kickstart](https://github.com/kintaris3/Ultimate-Ubuntu-Kickstart) — Day-1 post-install setup & debloater
 - [Ultimate Ubuntu Updater](https://github.com/kintaris3/Ultimate-Ubuntu-Updater) — One-click APT, Flatpak, & Snap maintenance
 - [Ultimate Ubuntu Rescue](https://github.com/kintaris3/Ultimate-Ubuntu-Rescue) — System repair, space recovery, & hardware diagnostics
 - [Ultimate Ubuntu Backup](https://github.com/kintaris3/Ultimate-Ubuntu-Backup) — System snapshots, personal backups, & migration cloning
 - [Ultimate Ubuntu Retro](https://github.com/kintaris3/Ultimate-Ubuntu-Retro) — Hardware-aware emulation & controller configurator
+- [Ultimate Ubuntu Revival](https://github.com/kintaris3/Ultimate-Ubuntu-Revival) — Thermal, ZRAM, Wi-Fi, & performance optimizer for older hardware
+
